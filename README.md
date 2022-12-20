@@ -24,8 +24,3 @@
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="MS Office Excel"/></code>
 <code><img height="38" src="https://www.freeiconspng.com/thumbs/ppt-icon/powerpoint-icon-microsoft-powerpoint-icon-network-powerpoint-icons-and-3.png" alt="MS Office PowerPoint"/></code>
 <code><img height="34" src="https://findicons.com/files/icons/2795/office_2013_hd/2000/word.png" alt="MS Office Word"/></code>
-
----
-
-## 🔔 Information about my GitHub account
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmetxaltun&show_icons=true)
