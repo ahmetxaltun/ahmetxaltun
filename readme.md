@@ -1,7 +1,7 @@
 ## Hi! 👋 I'am <strong>Ahmet Altun</strong>
 
 👨‍💻 Front-End Web Developer </br>
-🎓 I am a Student of Management Information Systems at Ataturk University. </br>
+🎓 I am a student of Management Information Systems.</br>
 🎭 As a hobby, I like to website coding, read books and play sports.
 
 ----
